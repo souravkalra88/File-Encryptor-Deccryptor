@@ -1,0 +1,14 @@
+
+
+Version:	3.10
+CmdLine:	C:\Users\Sk's PC\Desktop\EnD\EnD.exe --l4j-debug
+WOW64:		yes
+Working dir:	C:\Users\Sk's PC\Desktop\EnD\.
+Java min ver:	
+Java max ver:	
+Bundled JRE:	jre
+Check launcher:	C:\Users\Sk's PC\Desktop\EnD\jre\bin\javaw.exe (OK)
+Launcher:	C:\Users\Sk's PC\Desktop\EnD\jre\bin\javaw.exe
+Launcher args:	-jar "C:\Users\Sk's PC\Desktop\EnD\EnD.exe"
+Args length:	43/32768 chars
+Exit code:	0
