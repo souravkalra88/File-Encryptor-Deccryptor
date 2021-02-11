@@ -40,4 +40,5 @@ Your original file is retained.
 You can add more layers oof encryption by encrypting file n times by using unique key every time.
 it will be Decrypted  by decrypting it n time by entering keys respectively in reverse order.
 
-# Any other combination or entering wrong key will lead to fail in decryption
+# Any other combination or entering wrong key will lead to fail in decryption 
+# Can be used to encrpt any file format like jpg,png,txt etc.
